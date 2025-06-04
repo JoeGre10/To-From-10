@@ -1,1 +1,3 @@
 I made this app as one of my co-workers found it funny when asked the time our other co-worker said 30 to 10 instead of 9:30 so I decided to make an app that tells you the time purely in relation of minutes to and from 10
+
+Made with Kotlin as a app for Android studio
